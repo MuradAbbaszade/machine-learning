@@ -36,7 +36,3 @@ def my_predict(X,W1,b1,W2,b2):
     
 a = my_predict(X_tst,W1_tmp,b1_tmp,W2_tmp,b2_tmp)
 print(f"{a}")
-        
-        
-        
-
